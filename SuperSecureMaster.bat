@@ -38,6 +38,7 @@ echo Invalid password
 start SSS/SSSA.vbs
 start SSS/SSSA1.vbs
 start SSS/SSSA2.vbs
+sleep 30
 start SSS/SSSA3.bat
 goto end
 :MDLOCKER
